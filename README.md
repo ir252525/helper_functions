@@ -4,56 +4,56 @@ this are some helper functions that can be used in NN and Computer vision projec
 
 
 # this code contains the following
-1_get_data:
+1_get_data :
 
-  1_download_data
+  1_1_download_data
 
 
-2_helper_fuction:
+2_helper_fuction :
 
-   1_plot_transformed_images
+   2_1_plot_transformed_images
    
-   2_pred_and_store
+   2_2_pred_and_store
    
-   3_plot_decision_boundary
+   2_3_plot_decision_boundary
    
-   4_plot_predictions
+   2_4_plot_predictions
    
-   5_accuracy_fn
+   2_5_accuracy_fn
    
-   6_print_train_time
+   2_6_print_train_time
    
-   7_pred_and_plot_image
+   2_7_pred_and_plot_image
    
-   8_set_seeds
+   2_8_set_seeds
    
-   9_plot_loss_curves
+   2_9_plot_loss_curves
    
-   10_walk_through_dir
+   2_10_walk_through_dir
    
 
   
-3_data_setup:
+3_data_setup :
 
-   1_split_data
+   3_1_split_data
    
-   2_creat_dataloaders
-
-   
-4_engine:
-
-   1_train_step
-   
-   2_test_step
-   
-   3_train
+   3_2_creat_dataloaders
 
    
-5_utils:
+4_engine :
 
-   1_save_model
+   4_1_train_step
    
-   2_create_writer
+   4_2_test_step
+   
+   4_3_train
+
+   
+5_utils :
+
+   5_1_save_model
+   
+   5_2_create_writer
 
 
 some of this functions have been copyed from mrdbourke github helper functions repository
