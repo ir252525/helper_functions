@@ -4,12 +4,12 @@ this are some helper functions that can be used in NN and Computer vision projec
 
 
 # this code contains the following
-1_get_data :
+## 1_get_data :
 
   1_1_download_data
 
 
-2_helper_fuction :
+## 2_helper_fuction :
 
    2_1_plot_transformed_images
    
@@ -33,14 +33,14 @@ this are some helper functions that can be used in NN and Computer vision projec
    
 
   
-3_data_setup :
+## 3_data_setup :
 
    3_1_split_data
    
    3_2_creat_dataloaders
 
    
-4_engine :
+## 4_engine :
 
    4_1_train_step
    
@@ -49,11 +49,11 @@ this are some helper functions that can be used in NN and Computer vision projec
    4_3_train
 
    
-5_utils :
+## 5_utils :
 
    5_1_save_model
    
    5_2_create_writer
 
-
+# NOTE :
 some of this functions have been copyed from mrdbourke github helper functions repository
