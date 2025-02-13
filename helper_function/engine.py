@@ -13,7 +13,7 @@ try:
     from torch.utils.tensorboard import SummaryWriter
 except:
     print("[INFO] Couldn't find tensorboard... installing it.")
-    !pip install -q tensorflow-tensorboard
+    pip install -q tensorflow-tensorboard
     from torch.utils.tensorboard import SummaryWriter
 
 
